@@ -1,0 +1,1 @@
+eternal-eternity>=5.2.0
